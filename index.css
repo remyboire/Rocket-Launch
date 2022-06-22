@@ -110,6 +110,7 @@ p {
 	font-family: 'Roboto Mono', monospace;
 	padding: 0.35rem 0.8rem 0.5rem 0.8rem;
 	border-radius: 0.5rem;
+	margin-bottom: 4rem;
 }
 .countdown-display.trigger {
 	font-family: 'Karla', sans-serif;
